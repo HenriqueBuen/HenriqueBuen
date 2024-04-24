@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Onde me encontrar:</h1>
+<h2 align="left">Onde me encontrar:</h2>
 
 ###
 
@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
-<h2 align="left">🌐 Front-end</h2>
+<h3 align="left">🌐 Front-end</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">💻 Back-end</h2>
+<h3 align="left">💻 Back-end</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h2 align="left">🛠️ Ferramentas</h2>
+<h3 align="left">🛠️ Ferramentas</h3>
 
 ###
 
@@ -74,8 +74,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquebuen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebuen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquebuen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebuen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -85,3 +85,5 @@
 <img src="https://raw.githubusercontent.com/henriquebuen/henriquebuen/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
