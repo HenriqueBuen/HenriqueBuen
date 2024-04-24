@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Onde me encontrar:</h3>
+<h1 align="left">Onde me encontrar:</h1>
 
 ###
 
@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+<h1 align="left">Tecnologias</h1>
 
 ###
 
-<h4 align="left">🌐 Front-end</h4>
+<h2 align="left">🌐 Front-end</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h4 align="left">💻 Back-end</h4>
+<h2 align="left">💻 Back-end</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h4 align="left">🛠️ Ferramentas</h4>
+<h2 align="left">🛠️ Ferramentas</h2>
 
 ###
 
