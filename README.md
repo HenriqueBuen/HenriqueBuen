@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">E aí, galera! 👋<br><br>Sou o Henrique, e tô aqui na área pronto pra mergulhar de cabeça na programação. Possuo formação em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, além de ser certificado como Desenvolvedor Web pelo Instituto Proa em parceria com o Senac. Estou determinado a aprofundar meus conhecimentos e contribuir para o desenvolvimento de soluções inovadoras. 💻<br><br>Estou em busca de oportunidades para colaborar em projetos inspiradores, compartilhar minhas experiências e crescer junto com a comunidade de tecnologia. Valorizo feedbacks construtivos e estou sempre pronto para enfrentar novos desafios. Vamos unir forças para impulsionar a inovação? 🚀</p>
+
 
 ###
 
